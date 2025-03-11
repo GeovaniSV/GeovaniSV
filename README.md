@@ -7,6 +7,8 @@
   - JavaScript
   - ReactJS
   - Tailwind
+  - HTML
+  - CSS
 
 - Tenho estudado sobre:
   - TypeScript
