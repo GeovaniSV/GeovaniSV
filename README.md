@@ -1,4 +1,4 @@
-## Olá, sou Geovani sos Santos Vargas :smiley: 
+## Olá, sou Geovani dos Santos Vargas :smiley: 
 
 - :computer: Desenvolvedor Front-End Web.
 - :pencil2: Estudante do 4° semestre de Análise e Desenvolvimento de Sistemas na Universidade Fasipe.
